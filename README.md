@@ -4,6 +4,8 @@ Local Codex usage dashboard for a Mac running Codex. It reads local Codex usage 
 
 The UI is optimized for e-ink displays: black-and-white styling, stable layout, no decorative gradients, and low-frequency polling.
 
+![Codex Report Server running on e-ink devices](assets/demo.jpg)
+
 ## Features
 
 - Official 5-hour and weekly remaining quota percentages from Codex RPC.
